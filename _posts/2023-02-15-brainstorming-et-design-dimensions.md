@@ -5,7 +5,7 @@ date: 2023-02-15
 
 Nous avons fait plusieurs brainstormings liés aux jeux de piste et aux puzzles. Cela nous a permis d'axer notre réflexion sur les puzzles et d'organiser nos idées.
 
-## Premier brainstormng: idées pour à la fois les puzzles et les jeux de piste
+## Premier brainstorming: idées pour à la fois les puzzles et les jeux de piste
 ![image](https://user-images.githubusercontent.com/98399953/226116181-4f88a7b6-a1d9-4530-af06-79337c11ef0b.png)
 
 ## Second brainstorming: idées de problèmes rencontrés lorsqu'on fait un puzzle
