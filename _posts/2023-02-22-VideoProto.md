@@ -15,7 +15,7 @@ Dans cette vidéo nous présentons un usage de la fonctionnalité commande de pi
 ## Vidéo 3
 Dans cette vidéo nous présentons un usage de la fonctionnalité de l'affichage du puzzle complet sur le plateau
 
-[![Miniature de la vidéo 3](https://img.youtube.com/vi/n17ZlMM1SJo/hqdefault.jpg)](https://youtu.be/n17ZlMM1SJo)
+[![Miniature de la vidéo 3](https://img.youtube.com/vi/FDZ_4k6-Cp4/hqdefault.jpg)](https://youtu.be/FDZ_4k6-Cp4)
 
 ## Vidéo 4
 Dans cette vidéo nous présentons un usage de la fonctionnalité d'indice
@@ -25,7 +25,7 @@ Dans cette vidéo nous présentons un usage de la fonctionnalité d'indice
 ## Vidéo 5
 Dans cette vidéo nous présentons un usage de la fonctionnalité de connexion entre l'application et le plateau
 
-[![Miniature de la vidéo 5](https://img.youtube.com/vi/9FuDAkstKr0/hqdefault.jpg)](https://youtu.be/9FuDAkstKr0)
+[![Miniature de la vidéo 5](https://img.youtube.com/vi/TMPZP3UgcjA/hqdefault.jpg)](https://youtu.be/TMPZP3UgcjA)
 
 ## Vidéo 5
 Vidéo prototype finale
