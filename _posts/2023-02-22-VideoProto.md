@@ -25,9 +25,9 @@ Dans cette vidéo nous présentons un usage de la fonctionnalité d'indice
 ## Vidéo 5
 Dans cette vidéo nous présentons un usage de la fonctionnalité de connexion entre l'application et le plateau
 
-[![Miniature de la vidéo 5](https://img.youtube.com/vi/TMPZP3UgcjA/hqdefault.jpg)](https://youtu.be/TMPZP3UgcjA)
+[![Miniature de la vidéo 5](https://img.youtube.com/vi/9FuDAkstKr0/hqdefault.jpg)](https://youtu.be/9FuDAkstKr0)
 
-## Vidéo 5
+## Vidéo 6
 Vidéo prototype finale
 
-[![Miniature de la vidéo finale](https://img.youtube.com/vi/nsinkVL5I7k/hqdefault.jpg)](https://youtu.be/nsinkVL5I7k)
+[![Miniature de la vidéo finale](https://img.youtube.com/vi/TMPZP3UgcjA/hqdefault.jpg)](https://youtu.be/TMPZP3UgcjA)
