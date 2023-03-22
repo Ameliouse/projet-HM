@@ -14,4 +14,4 @@ Fonctionnalités du plateau:
 
 BLOG : https://ameliouse.github.io/projet-IHM-Puzzle_Pursuits/
 
-![plateau](https://user-images.githubusercontent.com/63614882/227000425-b6b7b5df-577b-4628-bf2d-bfa5d30552a6.png)
+![plateauSansLegende](https://user-images.githubusercontent.com/63614882/227000783-2b28ee66-b126-4c0f-97b8-b32681e165af.png)
